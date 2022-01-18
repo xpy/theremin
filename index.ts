@@ -3,9 +3,10 @@ import './style.css';
 import * as Tone from 'tone';
 import * as mpHands from '@mediapipe/hands';
 import { Camera } from '@mediapipe/camera_utils';
+import * as drawingUtils from '@mediapipe/drawing_utils';
 
 // const mpHands = window;
-const drawingUtils = window;
+// const drawingUtils = window;
 const controls = window;
 const controls3d = window;
 
