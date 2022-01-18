@@ -1,5 +1,5 @@
 {
-  "name": "typescript",
+  "name": "theremin",
   "version": "0.0.0",
   "private": true,
   "dependencies": {
@@ -7,5 +7,7 @@
     "@mediapipe/drawing_utils": "^0.3.1620248257",
     "@mediapipe/hands": "^0.4.1635986972",
     "tone": "^14.8.36"
-  }
+  },
+  "keywords": [],
+  "description": ""
 }
